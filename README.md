@@ -1,4 +1,4 @@
-# 🚀 **Hello, I'm Gabriel mauly!**  
+# 🚀 **Hello, I'm Gabriel Mauly!**  
 
 👨‍💻 **Software Engineer** with **7+ years** of experience, crafting awesome **web applications**, **RESTful APIs**, and **Linux services**. I specialize in building and maintaining pipelines for training and deploying **AI models**, with a strong focus on **computer vision solutions** for embedded systems.  
 
